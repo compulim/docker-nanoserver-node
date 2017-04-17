@@ -1,4 +1,4 @@
-# Nano Server image with Node.js
+# Windows Server 2016 Nano Server with Node.js
 
 This is a Windows Container image with Windows Server 2016 Nano Server base OS image and Node.js.
 
