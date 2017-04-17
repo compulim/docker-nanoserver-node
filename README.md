@@ -22,6 +22,6 @@ Node.js and npm is located at `C:\node`. PATH environment variable is set for yo
 
 # Contributions
 
-Like us, please [star](https://github.com/compulim/docker-iisnode/stargazers) us.
+Like us, please [star](https://github.com/compulim/docker-nanoserver/stargazers) us.
 
-If you found an issue or suggest a version bump, please [file an issue](https://github.com/compulim/docker-iisnode/issues) to us.
+If you found an issue or suggest a version bump, please [file an issue](https://github.com/compulim/docker-nanoserver/issues) to us.
