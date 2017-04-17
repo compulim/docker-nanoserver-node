@@ -6,6 +6,13 @@ You can find the [Dockerfile](https://github.com/compulim/docker-nanoserver-node
 
 This [article](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10) is a quick tutorial for running Docker on Windows 10.
 
+# Version
+
+| Name                       | Version         |
+| -------------------------- | --------------- |
+| microsoft/nanoserver image | 10.0.14393.1066 |
+| Node.js for Windows (x64)  | 7.9.0           |
+
 # How to use?
 
 ## Pull this image from Docker Hub
