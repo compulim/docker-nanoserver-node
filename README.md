@@ -10,8 +10,8 @@ This [article](https://docs.microsoft.com/en-us/virtualization/windowscontainers
 
 | Name                       | Version         |
 | -------------------------- | --------------- |
-| microsoft/nanoserver image | 10.0.14393.1066 |
-| Node.js                    | 7.9.0 (x64)     |
+| microsoft/nanoserver image | 10.0.14393.1198 |
+| Node.js                    | 7.10.0 (x64)    |
 
 # How to use?
 
