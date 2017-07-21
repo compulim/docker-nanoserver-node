@@ -8,10 +8,10 @@ This [article](https://docs.microsoft.com/en-us/virtualization/windowscontainers
 
 # Version
 
-| Name                       | Version         |
-| -------------------------- | --------------- |
-| microsoft/nanoserver image | 10.0.14393.1198 |
-| Node.js                    | 8.1.0 (x64)     |
+| Name                       | Version      |
+| -------------------------- | ------------ |
+| microsoft/nanoserver image | 10.0.14393.* |
+| Node.js                    | 8.2.1 (x64)  |
 
 # How to use?
 

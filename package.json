@@ -1,7 +1,7 @@
 {
-  "name": "docker-nanoserver-node",
+  "name": "nanoserver-node",
   "version": "8.2.1",
-  "description": "Dockerfile for docker-nanoserver-node",
+  "description": "Dockerfile for nanoserver-node",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/compulim/docker-nanoserver-node.git"
@@ -11,5 +11,5 @@
   "bugs": {
     "url": "https://github.com/compulim/docker-nanoserver-node/issues"
   },
-  "homepage": "https://github.com/compulim/docker-nanoserver-node#readme"
+  "homepage": "https://hub.docker.com/r/compulim/nanoserver-node/"
 }
