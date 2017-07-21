@@ -1,5 +1,7 @@
 # Windows Server 2016 Nano Server with Node.js
 
+![https://compulim.visualstudio.com/_apis/public/build/definitions/77677cc8-077c-44b6-9cfc-25673974c1dc/3/badge](https://compulim.visualstudio.com/_apis/public/build/definitions/77677cc8-077c-44b6-9cfc-25673974c1dc/3/badge)
+
 This is a Windows Container image with Windows Server 2016 Nano Server base OS image and Node.js.
 
 You can find the [Dockerfile](https://github.com/compulim/docker-nanoserver-node/blob/master/Dockerfile) on GitHub.
