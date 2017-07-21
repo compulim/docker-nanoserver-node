@@ -1,0 +1,15 @@
+{
+  "name": "docker-nanoserver-node",
+  "version": "8.2.1",
+  "description": "Dockerfile for docker-nanoserver-node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compulim/docker-nanoserver-node.git"
+  },
+  "author": "William Wong <compulim@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compulim/docker-nanoserver-node/issues"
+  },
+  "homepage": "https://github.com/compulim/docker-nanoserver-node#readme"
+}
